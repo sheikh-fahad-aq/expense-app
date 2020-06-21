@@ -11,6 +11,9 @@
 # production
 /build
 
+# For yml
+/.github
+
 # misc
 .DS_Store
 .env.local
