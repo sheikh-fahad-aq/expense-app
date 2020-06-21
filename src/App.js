@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <Dinner dishName="Nihaari" sweetDish="Kheer" />
-      <Dinner dishName="Biryaani" sweetDish="Ras Malai" />
     </div>
   );
 }
