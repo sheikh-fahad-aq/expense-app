@@ -87,6 +87,7 @@ function Child() {
                         placeholder="Amount"
                         onChange={(ev) => setAmount(ev.target.value)}
                         required />
+                    Note : For Expese Please add - in Amount eq. -100
                 </label>
                 <br />
                 <input type="submit" value="Add Transaction" />
