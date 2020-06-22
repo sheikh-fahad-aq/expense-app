@@ -62,9 +62,9 @@ function Child() {
 
             <ul className="trnsaction-list">
                     <li>
-                        <span>Account Description</span>
-                        <span>Amount</span>
-                        <span>Action</span>
+                        <span><b>Account Description</b></span>
+                        <span><b>Amount</b></span>
+                        <span><b>Action</b></span>
                     </li>
 
             </ul>
