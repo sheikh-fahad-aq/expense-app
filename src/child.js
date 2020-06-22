@@ -58,6 +58,16 @@ function Child() {
             <h3>History</h3>
             <hr />
 
+
+
+            <ul className="trnsaction-list">
+                    <li>
+                        <span>Account Description</span>
+                        <span>Amount</span>
+                        <span>Action</span>
+                    </li>
+
+            </ul>
             <ul className="trnsaction-list">
                 {transactions.map((transObj, ind) => {
                     return (
